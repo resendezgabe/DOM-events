@@ -1,0 +1,13 @@
+#container {
+	margin: auto;
+	text-align: center;
+}
+#cookie {
+	width: 200px;
+	height: 200px;
+	cursor: pointer;
+}
+#counter {
+	font-size: 72px;
+	margin-top: 20px;
+}
